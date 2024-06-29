@@ -137,7 +137,7 @@ table {
 
 ### Code mẫu base dự án thực tế:
 
-> [!NOTE]/
+> [!NOTE]\
 > *, :root, html
 
 ```css
